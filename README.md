@@ -11,7 +11,7 @@ This repository is a growing collection of custom skills for Claude — each one
 | Skill | What it does |
 |---|---|
 | [adhd-notes](./adhd-notes/) | Concise, scannable conspects from courses, articles, and PDFs — optimized for ADHD review |
-
+| [anti-inflammatory-diet](./anti-inflammatory-diet/) | Personalized anti-inflammatory diet assistant — recipe adaptation, product checks, meal suggestions |
 More coming.
 
 ---
